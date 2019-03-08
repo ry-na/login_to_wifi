@@ -1,0 +1,8 @@
+[package]
+name = "wifi_to_login"
+version = "0.1.0"
+authors = ["ry-na <ryonatori18@kit.edu.kh>"]
+
+[dependencies]
+reqwest = "~0.8.5"
+serde_json = "1.0"
